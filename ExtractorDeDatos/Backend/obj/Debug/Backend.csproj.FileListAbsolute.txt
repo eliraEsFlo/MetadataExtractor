@@ -1,0 +1,11 @@
+C:\Users\Ariel\source\repos\Backend\Backend\obj\Debug\Backend.csprojAssemblyReference.cache
+C:\Users\Ariel\source\repos\Backend\Backend\bin\Debug\Backend.exe.config
+C:\Users\Ariel\source\repos\Backend\Backend\bin\Debug\Backend.exe
+C:\Users\Ariel\source\repos\Backend\Backend\bin\Debug\Backend.pdb
+C:\Users\Ariel\source\repos\Backend\Backend\bin\Debug\EntityFramework.dll
+C:\Users\Ariel\source\repos\Backend\Backend\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Ariel\source\repos\Backend\Backend\bin\Debug\EntityFramework.xml
+C:\Users\Ariel\source\repos\Backend\Backend\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Ariel\source\repos\Backend\Backend\obj\Debug\Backend.csproj.CopyComplete
+C:\Users\Ariel\source\repos\Backend\Backend\obj\Debug\Backend.exe
+C:\Users\Ariel\source\repos\Backend\Backend\obj\Debug\Backend.pdb
